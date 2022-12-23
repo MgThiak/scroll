@@ -19,17 +19,17 @@ body
 	height: 221px;
 	background-position: center;
 	background-size: cover;
-	background-image: url(khaing.jpg);
+	background-image: url(dog.jpg);
 }
 
 .animated:nth-child(2)
 {
-	background-image: url(khaing2.jpg);
+	background-image: url(girl.jpg);
 }
 
 .animated:nth-child(3)
 {
-	background-image: url(khaing.jpg);
+	background-image: url(cat.jpg);
 }
 
 .fadeInLeft
